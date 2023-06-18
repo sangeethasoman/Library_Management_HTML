@@ -1,0 +1,28 @@
+.container {
+    width: 100%;
+    height: 700px;
+    
+}
+.bookList {
+    width: 70%;
+    height: 50%;
+    float: left;
+    background-color: #874014c7;
+    margin-top: 10px;
+    margin-left: 15%;
+    border-radius: 30%;
+}
+.ageImg{
+    float: left;
+    width: 100%;
+    height: 100px;
+    background-size: cover; 
+    margin-top: 10px;
+    text-align: center;
+}
+.content{
+    width: 100%;
+    height: 70px;
+    float: left;
+    text-align: center; 
+}
